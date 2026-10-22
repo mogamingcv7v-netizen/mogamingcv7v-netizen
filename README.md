@@ -17,5 +17,5 @@
 <p align="center"><b>Now</b> — shipping product #8 · studying backend systems at scale</p>
 
 <p align="center">
-  <a href="mailto:mogamingcv7v@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1C1417?style=for-the-badge&logo=gmail&logoColor=FF6E5E" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mogamingcv7v@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/EMAIL-1C1417?style=for-the-badge&logo=gmail&logoColor=FF6E5E" alt="Email" /></a>
 </p>
