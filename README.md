@@ -8,9 +8,6 @@ I build web products end-to-end — design, code, deploy, and the unglamorous mi
 
 **Shipped**
 - **7 SaaS products** in 2 years — each deployed, maintained, and iterated by me
-- **WhatsApp bot frameworks** in Node.js — multi-instance, config-driven, long-lived sessions
-- **Kotlin Android app** — a Quran shorts player, built for Arabic-first UX
-- **Self-hosted panels** — pterodactyl-style, running in proot environments
 
 **Working with:** TypeScript · Next.js · Node.js · Kotlin · PostgreSQL · Docker · Linux
 
