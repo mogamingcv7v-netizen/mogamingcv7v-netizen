@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="assets/banner.svg?v=5" alt="Mostafa â€” full-stack developer from Egypt" width="100%" />
 </div>
 
