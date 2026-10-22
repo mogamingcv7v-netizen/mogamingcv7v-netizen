@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg?v=2" alt="Mostafa — full-stack developer from Egypt" width="100%" />
+  <img src="assets/banner.svg?v=3" alt="Mostafa — full-stack developer from Egypt" width="100%" />
 </div>
 
 ### 17 · Egypt · full-stack developer · 7 SaaS products shipped in two years
