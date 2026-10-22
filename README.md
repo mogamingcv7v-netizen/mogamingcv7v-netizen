@@ -1,13 +1,19 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Mostafa — full-stack developer, SaaS builder" width="100%" />
+  <img src="assets/banner.svg" alt="Mostafa — full-stack developer from Egypt" width="100%" />
 </div>
 
-**17 · from Egypt · full-stack developer.** 7 SaaS products shipped in 2 years — built, deployed, and maintained end-to-end, which is the part most people skip. Still learning, on purpose.
+### 17 · Egypt · full-stack developer · 7 SaaS products shipped in two years
 
-I like shipping more than talking. The next product is already in progress.
+I build web products end-to-end — design, code, deploy, and the unglamorous middle nobody talks about: configs, environments, break-fix at 2am. Self-taught. Started at 15 playing with Node.js bots. Never stopped.
 
-- **Build** — SaaS · automation & bots · mobile apps
-- **Stack** — TypeScript · Next.js · Node.js · PostgreSQL · Docker · Kotlin
-- **Now** — backend systems at scale, and product #8
+**Shipped**
+- **7 SaaS products** in 2 years — each deployed, maintained, and iterated by me
+- **WhatsApp bot frameworks** in Node.js — multi-instance, config-driven, long-lived sessions
+- **Kotlin Android app** — a Quran shorts player, built for Arabic-first UX
+- **Self-hosted panels** — pterodactyl-style, running in proot environments
 
-<a href="mailto:mogamingcv7v@gmail.com">→ contact</a>
+**Working with:** TypeScript · Next.js · Node.js · Kotlin · PostgreSQL · Docker · Linux
+
+**Currently:** product #8 · backend systems at scale — queues, caching, reliability
+
+**Contact:** [mogamingcv7v@gmail.com](mailto:mogamingcv7v@gmail.com)
